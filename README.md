@@ -1,4 +1,4 @@
-# CAFETERIA CHANLLENGE
+# CAFETERIA TEST
 ###### Project with the intention of doing unit tests with Jest and Java Script to test a cafeteria application
 
 ## COMMAND
